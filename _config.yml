@@ -106,6 +106,6 @@ deploy:
 
 deploy:
   type: git
-  repo: https://github.com/mmoorecode.github.io
+  repo: https://github.com/mmoorecode/mmoorecode.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
