@@ -1,0 +1,6 @@
+---
+
+title: Inaugural post
+
+---
+
